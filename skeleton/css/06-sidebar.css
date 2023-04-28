@@ -22,4 +22,13 @@
 
 .profile-nav>ul>li {
     font-weight: 900;
+    padding: 8px 0px;
+}
+
+.profile-nav>ul>li:nth-child(n) {
+    border-top: 1px solid lightgray;
+}
+
+.profile-nav>ul>li:last-child {
+    border-bottom: 1px solid lightgray;
 }
