@@ -9,3 +9,17 @@
     margin-top: -120px;
     position: relative;
 }
+
+.profile-info>h1 {
+    font-size: 25px;
+    font-weight: 900;
+    margin: 25px 0px;
+}
+
+.profile-info>p {
+    margin: 20px 0px;
+}
+
+.profile-nav>ul>li {
+    font-weight: 900;
+}
